@@ -1,0 +1,1 @@
+public class Fit implements IVehicle{ public void start(){System.out.println("Fit ligado");} public void drive(){System.out.println("Fit rodando");} public void stop(){System.out.println("Fit parado");}}

@@ -1,0 +1,1 @@
+public class Corolla implements IVehicle{ public void start(){System.out.println("Corolla ligado");} public void drive(){System.out.println("Corolla rodando");} public void stop(){System.out.println("Corolla parado");}}

@@ -1,0 +1,1 @@
+public class Galaxy20 implements Celular{ public void fazLigacao(){System.out.println("Galaxy20 ligando");} public void tiraFoto(){System.out.println("Galaxy20 foto");}}

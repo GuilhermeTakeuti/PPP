@@ -1,7 +1,2 @@
-# Laboratório 02
-
-Princípios e Padrões de Projeto
-
-Padrões utilizados:
-- Factory
-- Singleton
+# Laboratório 2 - Factory e Singleton
+Projeto completo para submissão acadêmica.

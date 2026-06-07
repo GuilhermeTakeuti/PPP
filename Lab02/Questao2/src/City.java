@@ -1,0 +1,1 @@
+public class City implements IVehicle{ public void start(){System.out.println("City ligado");} public void drive(){System.out.println("City rodando");} public void stop(){System.out.println("City parado");}}
