@@ -1,0 +1,1 @@
+public class Galaxy8 implements Celular{ public void fazLigacao(){System.out.println("Galaxy8 ligando");} public void tiraFoto(){System.out.println("Galaxy8 foto");}}

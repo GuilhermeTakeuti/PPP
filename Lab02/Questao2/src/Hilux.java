@@ -1,0 +1,1 @@
+public class Hilux implements IVehicle{ public void start(){System.out.println("Hilux ligada");} public void drive(){System.out.println("Hilux rodando");} public void stop(){System.out.println("Hilux parada");}}

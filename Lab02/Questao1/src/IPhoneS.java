@@ -1,0 +1,1 @@
+public class IPhoneS implements Celular{ public void fazLigacao(){System.out.println("iPhoneS ligando");} public void tiraFoto(){System.out.println("iPhoneS foto");}}

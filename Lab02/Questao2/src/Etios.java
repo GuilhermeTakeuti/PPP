@@ -1,0 +1,1 @@
+public class Etios implements IVehicle{ public void start(){System.out.println("Etios ligado");} public void drive(){System.out.println("Etios rodando");} public void stop(){System.out.println("Etios parado");}}
